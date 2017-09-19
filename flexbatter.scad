@@ -479,4 +479,4 @@ module flexbatter2xCx2(){ // AUTO_MAKE_STL
 //translate([0,40,0])flexbatter2xAA();
 //translate([0,80,0])flexbatter2xAAx2();
 //flexbatter2xAA();
-flexbatterD();
+flexbatterD(2,2);
